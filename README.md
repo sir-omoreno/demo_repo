@@ -36,14 +36,14 @@ git add <filename>
 git add * 
 ``
 
-**Commit changes (but not yet to the remote/master repository):	**
+**Commit changes (but not yet to the remote/master repository):**
 
 ``
 git commit -m "commit message"	
 git commit -a
 ``
 
-**Push/send changes to the master branch of your remote repository:	**
+**Push/send changes to the master branch of your remote repository:**
 
 `
 git push origin master
